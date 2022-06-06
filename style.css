@@ -1,0 +1,94 @@
+.btn .btn-default{
+    align-items: center;
+}
+.principle-input, .interest-input, .duration-input, .yearly-contributions-input, .monthly-contributions-input, .daily-contributions-input{
+    margin:15px;
+    font-size:16px;
+    outline:none;
+    border-radius:2px;
+    font-family:Tahoma, sans-serif;
+}
+
+.principle-input{
+    margin-left: 27px;
+}
+
+.interest-input{
+    margin-left: 59px;
+}
+
+.duration-input{
+    margin-left: 43px;
+}
+
+.yearly-contributions-input{
+    margin-left: 29px;
+}
+
+.monthly-contributions-input{
+    margin-left: 15.5px;
+}
+
+.daily-contributions-input{
+    margin-left: 36.5px;
+}
+.output-area{
+    font-size:15px;
+    border-radius:2px;
+    width:330px;
+    height:53px;
+}
+.btn, .download-btn{
+    width:95px;
+    height: 30px;
+    margin:7px 120px;
+    font-size:15px;
+    border:none;
+    background-color: rgb(171, 170, 170);
+}
+.download-btn{
+    margin:45px 574px;
+    height:70px;
+}
+
+.download-btn:hover{
+    opacity:100%;
+    cursor:pointer;
+}
+
+.btn:hover{
+    opacity:100%;
+    cursor:pointer;
+}
+.container{
+    width:450px;
+    height:530px;
+    margin-left: 200px;
+    
+    
+}
+a{
+    text-decoration:none;
+    color:rgb(29, 29, 29);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:10px;
+}
+
+table{
+    display: none;
+}
+body{
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+    
+    background: linear-gradient(to left, #d7d2cc, white);
+}
+h1{
+    text-align: center;
+}
+h3{
+    margin-left: 45px;
+    text-decoration: underline;
+}
